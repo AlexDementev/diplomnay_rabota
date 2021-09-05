@@ -1,0 +1,25 @@
+ERROR:root:Неудачная попытка поиска bar_code =dsadas
+ERROR:root:Неудачная попытка поиска bar_code =dsfsd
+ERROR:root:Неудачная попытка поиска bar_code =vxcvxc
+ERROR:root:Неудачная попытка входа, неверные данные USERNAME - ds 
+ERROR:root:Неудачная попытка входа, неверные данные USERNAME - ds 
+ERROR:root:Неудачная попытка входа, неверные данные USERNAME - ds 
+ERROR:root:Неудачная попытка входа, неверные данные USERNAME - asd1 
+ERROR:root:Неудачная попытка входа, неверные данные USERNAME - asd1 
+INFO:django.utils.autoreload:C:\code_projects\Author24#7260961\eco_project\pages\views.py changed, reloading.
+INFO:pyBarcode:Pillow not found. Image output disabled
+INFO:pyBarcode:Pillow not found. Image output disabled
+INFO:pyBarcode:Pillow not found. Image output disabled
+INFO:pyBarcode:Pillow not found. Image output disabled
+INFO:pyBarcode:Pillow not found. Image output disabled
+INFO:pyBarcode:Pillow not found. Image output disabled
+INFO:pyBarcode:Pillow not found. Image output disabled
+WARNING:django.request:Not Found: /favicon.ico
+ERROR:root:Неудачная попытка входа, неверные данные USERNAME - admin 
+ERROR:root:Неудачная попытка входа, неверные данные USERNAME - admin 
+ERROR:root:Неудачная попытка входа, неверные данные USERNAME - admin 
+INFO:root:Зарегистрирован новый пользователь USERNAME - admin
+ERROR:root:Неудачная попытка авторизации
+WARNING:django.request:Not Found: /profile/img/favicon.png
+WARNING:django.request:Not Found: /search/img/favicon.png
+ERROR:root:Неудачная попытка авторизации
